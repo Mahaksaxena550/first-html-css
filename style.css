@@ -1,0 +1,35 @@
+p{
+    color: blueviolet;
+    font-size:30px;
+    background-color: cornflowerblue;
+    
+    
+}
+
+#para1{
+    color: brown;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    word-spacing: 15px;
+    background-color: chocolate;
+    border: 5px solid grey;
+
+    padding-left:20px;
+    padding-right: 20px;
+    margin:0px ;
+
+   
+}
+
+.para2{
+    color: cadetblue;
+    font-style: italic;
+    background-color: beige;
+    letter-spacing: 10px;
+    border-style: dashed;
+
+    
+    
+
+}
